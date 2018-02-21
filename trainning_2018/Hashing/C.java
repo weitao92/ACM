@@ -2,6 +2,11 @@ package Hashing;
 
 import java.util.*;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/64/problems/C
+ * @author weitao92
+ *
+ */
 public class C {
 	static class Trie {
 	     

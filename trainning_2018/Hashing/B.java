@@ -2,6 +2,11 @@ package Hashing;
 
 import java.util.*;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/64/problems/B
+ * @author weitao92
+ *
+ */
 public class B {
 	
 	static class candidate implements Comparable<candidate>

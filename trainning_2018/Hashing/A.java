@@ -2,6 +2,11 @@ package Hashing;
 
 import java.util.*;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/64/problems
+ * @author weitao92
+ *
+ */
 public class A {
 	
 	public static void main(String args[])
