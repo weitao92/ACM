@@ -153,7 +153,10 @@ public class A {
 			
 			for(edge next : graph[p.x][p.y])
 			{
-				queue.add(new edge(next.p, current.length + next.length));
+				//if(!visited[next.p.x][next.p.y])
+				{
+					queue.add(new edge(next.p, current.length + next.length));
+				}
 			}
 		}
 		
