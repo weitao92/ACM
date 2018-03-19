@@ -3,6 +3,9 @@ package BackTrack;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/36/problems/C
+ */
 public class graghColor {
 	
 	static int n;

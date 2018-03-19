@@ -7,6 +7,9 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Scanner;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/problems/147
+ */
 public class paintWall {
 	
 	public static void main(String args[])

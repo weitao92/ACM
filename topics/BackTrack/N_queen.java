@@ -2,6 +2,9 @@ package BackTrack;
 
 import java.util.Scanner;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/36/problems/A
+ */
 public class N_queen {
 	
 	static int[][] board;

@@ -1,6 +1,9 @@
 package BackTrack;
 import java.util.*;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/problems/247
+ */
 public class sudoku {
 	
 	static class cell

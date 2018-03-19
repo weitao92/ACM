@@ -3,6 +3,9 @@ package Geometry;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/39/problems/B
+ */
 public class Parallelogram {
 	
 	static class point

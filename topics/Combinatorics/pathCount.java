@@ -37,12 +37,6 @@ public class pathCount {
 			bigger = bigger.multiply(new BigInteger(i + ""));
 			smaller = smaller.multiply(new BigInteger(temp + ""));
 			temp++;
-			/**
-			if(result.compareTo(MOD) > 0)
-			{
-				result = result.mod(MOD);
-			}
-			**/
 		}
 		
 		BigInteger result = bigger.divide(smaller);

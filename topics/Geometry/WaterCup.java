@@ -2,6 +2,9 @@ package Geometry;
 
 import java.util.Scanner;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/40/problems
+ */
 public class WaterCup {
 	
 	public static void main(String args[])

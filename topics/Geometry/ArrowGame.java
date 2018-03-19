@@ -2,6 +2,9 @@ package Geometry;
 
 import java.util.Scanner;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/40/problems/B
+ */
 public class ArrowGame {
 	
 	public static void main(String args[])
