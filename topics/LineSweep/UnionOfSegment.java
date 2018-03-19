@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/52/problems/C
+ */
 public class UnionOfSegment {
 	
 	static class interval implements Comparable<interval>

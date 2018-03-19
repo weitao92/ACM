@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+/**
+ * https://pcs.cs.cloud.vt.edu/contests/52/problems/B
+ */
 public class surveillance {
 	
 	static class interval implements Comparable<interval>
