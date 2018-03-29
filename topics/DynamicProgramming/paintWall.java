@@ -65,12 +65,6 @@ public class paintWall {
 			int mid = (start + end) / 2;
 			if(list.get(mid).compareTo(startTime) == 0)
 			{
-				/**
-				while(list.get(mid).compareTo(startTime) == 0)
-				{
-					mid++;
-				}
-				**/
 				return mid + 1;
 			}
 			else if(list.get(mid).compareTo(startTime) < 0)
